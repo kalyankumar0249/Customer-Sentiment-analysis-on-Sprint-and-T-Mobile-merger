@@ -3,13 +3,13 @@
 import twitter
 import tweepy
 
-apikey = 'G5QRq5GDOtpJ7CyyCyOzZby4p'
+apikey = 
 
-apisecretkey = 'B7uN3w3WbFmHznmeavBJthE6lMY8sf0RGJWYFpJ1tDTj11u3j6'
+apisecretkey = 
 
-accesstok = '944975323744976896-4UQhwB6dXtWTIEgD5GjW02e5TjkHKYZ'
+accesstok = 
 
-accesstoksec = 'g38CoTx5N2rJMarurL2Zyf9eqAtQ14ktOunRkvi0lIIzm'
+accesstoksec = 
 
  
 
