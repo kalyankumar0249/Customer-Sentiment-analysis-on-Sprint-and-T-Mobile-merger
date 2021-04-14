@@ -73,10 +73,10 @@ from tweepy import OAuthHandler
 import json
 import wget
  
-consumer_key = 'G5QRq5GDOtpJ7CyyCyOzZby4p'
-consumer_secret = 'B7uN3w3WbFmHznmeavBJthE6lMY8sf0RGJWYFpJ1tDTj11u3j6'
-access_token = '944975323744976896-4UQhwB6dXtWTIEgD5GjW02e5TjkHKYZ'
-access_secret = 'g38CoTx5N2rJMarurL2Zyf9eqAtQ14ktOunRkvi0lIIzm'
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_secret = 
 
 
  
@@ -123,10 +123,10 @@ import GetOldTweets3 as got
 
 import pandas as pd
 import requests
-apikey = 'G5QRq5GDOtpJ7CyyCyOzZby4p'
-apisecretkey = 'B7uN3w3WbFmHznmeavBJthE6lMY8sf0RGJWYFpJ1tDTj11u3j6'
-accesstok = '944975323744976896-4UQhwB6dXtWTIEgD5GjW02e5TjkHKYZ'
-accesstoksec = 'g38CoTx5N2rJMarurL2Zyf9eqAtQ14ktOunRkvi0lIIzm'
+apikey = 
+apisecretkey = 
+accesstok =
+accesstoksec =
 
 twitconn = twitter.Api(consumer_key=apikey, consumer_secret=apisecretkey, access_token_key=accesstok, access_token_secret=accesstoksec)
 
@@ -187,10 +187,10 @@ OAUTH_TOKEN = "<application key>"
 OAUTH_TOKEN_SECRET = "<application secret"
 
 import Twython
-consumer_key = 'G5QRq5GDOtpJ7CyyCyOzZby4p'
-consumer_secret = 'B7uN3w3WbFmHznmeavBJthE6lMY8sf0RGJWYFpJ1tDTj11u3j6'
-access_token = '944975323744976896-4UQhwB6dXtWTIEgD5GjW02e5TjkHKYZ'
-access_secret = 'g38CoTx5N2rJMarurL2Zyf9eqAtQ14ktOunRkvi0lIIzm'
+consumer_key = 
+consumer_secret =
+access_token = 
+access_secret = 
 twitter = Twython(
     consumer_key, consumer_secret,
     access_token, access_secret)
